@@ -17,5 +17,9 @@ We identified a subgroup of older women who responded best to anti-IL-12/23, wit
 ### CONCLUSION
 Our findings revise the prior literature and underscore the importance of patient-specific characteristics in treatment selection. Most patients do not appear to have superior efficacy with anti-TNFs, allowing for patients and providers to prioritize factors like safety and cost when selecting treatments. Elderly women may derive superior efficacy from anti-IL-12/23s. We have prototyped a decision support tool to advance precision medicine in CD.
 
+## Data Access
+
+The raw data are owned by the trial sponsors. The data may be accessed for reproduction and extension of this work following an application on the YODA and Vivli platforms and execution of a data use agreement.
+
 ## Requirements
 Programming was performed in the R language (4.2.2), using the packages dplyr, tidyr, lme4, lmerTest, merTools, data.table, ggplot2, reshape2, RColorBrewer, grid, gridExtra, cowplot, sjplot, shiny, and shinydashboard.
